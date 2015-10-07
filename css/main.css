@@ -1,0 +1,106 @@
+body, html{
+	width: 100%;
+	height: 100%;
+}
+.logo-ecologic{
+	width: 60%;
+	height: 60%;
+}
+nav a{
+	font-family: OpenSans-Regular;
+	color: grey;
+	text-decoration: none;
+	text-align: center;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.background-ecologic{
+	background-size: 100%;
+	height: 50%;
+	background: url("../img/semilla.jpg") center;
+}
+.barra-texto{
+	background-color:#F2F2F2;
+}
+.goals{
+	font-size: 14px;
+}
+.methodology{
+	width: 100%;
+	height: 30%;
+	background-size: cover;
+	color: white;
+}
+.methodology.row{
+	margin: 0px ! important;
+}
+.methodology .col-6{
+	padding: 0px ! important;
+}
+.teacher{
+	background:url("../img/metodo.jpg");
+	width: 100%;
+	height: 392px;
+	background-size: cover;
+}
+.green{
+	background:url("../img/fondo.jpg");
+	width: 102%;
+	height: 392px;
+}
+.service h3 {
+	margin-top:5%;
+}
+.draft{
+	background-color:#566C2E;
+	color: white;
+}
+.draft img{
+	width: 70%;
+	height: 80%;
+}
+.group-job h1{
+	color:#17431F;
+}
+.group-job img{
+	border-radius: 100%;
+}
+.group-job .redes img{
+	width: 5%;
+	height: 5%;
+	border-radius: 10%;
+}
+.blog{
+	background:url("../img/fondo2.jpg");
+}
+.fotos img{
+	width: 100%;
+	height: 100%;	
+}
+.fotos .boton{
+	width: 3%;
+	height: 5%;
+	position: absolute;
+}
+.fotos .boton2{
+	width: 3%;
+	height: 5%;
+	position: absolute;
+}
+.redes-sociales{
+	background-color: #4C4E4D;
+	width: 100%;
+	color: white;
+}
+.redes-sociales .borde{
+	border: 1px solid white;
+	height: 180px;
+}
+.redes-sociales img{
+	height: 30%;
+	margin-top: 30%;
+	margin-left: 80%;
+}
+span{
+	color: #FEC40B;
+}
